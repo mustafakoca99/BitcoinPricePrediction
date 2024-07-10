@@ -1,0 +1,15 @@
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Business.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Business.pdb
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Core.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Core.pdb
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.csproj.AssemblyReference.cache
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Business\obj\Debug\netcoreapp3.0\Business.pdb

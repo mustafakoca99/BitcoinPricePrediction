@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJxmgXQJNqhV53J8gTK2yiZJfIHcDfWybiS7zG+i1J9kca/TES+ganTPbIkSfZ1DwIV/KzXbUZlZPKMaklhZsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkoca\\Desktop\\Example\\BitcoinPricePrediction\\BitcoinPricePrediction\\BitcoinPricePrediction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0-rc1.19456.10\\microsoft.extensions.configuration.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0-rc1.19456.10\\microsoft.extensions.configuration.abstractions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0-rc1.19456.10\\microsoft.extensions.configuration.binder.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0-rc1.19456.10\\microsoft.extensions.dependencyinjection.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0-rc1.19456.10\\microsoft.extensions.dependencyinjection.abstractions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.http\\3.0.0-rc1.19456.10\\microsoft.extensions.http.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0-rc1.19456.10\\microsoft.extensions.logging.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0-rc1.19456.10\\microsoft.extensions.logging.abstractions.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.options\\3.0.0-rc1.19456.10\\microsoft.extensions.options.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0-rc1.19456.10\\microsoft.extensions.primitives.3.0.0-rc1.19456.10.nupkg.sha512",
+    "C:\\Users\\mkoca\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

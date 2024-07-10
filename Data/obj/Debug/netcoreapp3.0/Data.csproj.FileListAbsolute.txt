@@ -1,0 +1,9 @@
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\bin\Debug\netcoreapp3.0\Data.deps.json
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\bin\Debug\netcoreapp3.0\Data.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\bin\Debug\netcoreapp3.0\Data.pdb
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.dll
+C:\Users\mkoca\Desktop\Udemy\BitcoinPricePrediction\Data\obj\Debug\netcoreapp3.0\Data.pdb
